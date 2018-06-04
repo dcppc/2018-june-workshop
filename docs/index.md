@@ -29,8 +29,6 @@ and to surface hidden issues around technical and conceptual interoperability.
 
 _In progress_
 
-Please visit this website to register: [https://ti.to/dcppc/may-data-commons-workshop](https://ti.to/dcppc/may-data-commons-workshop)
-
 Please note that _registration is required to attend_.
 
 ## Agenda
