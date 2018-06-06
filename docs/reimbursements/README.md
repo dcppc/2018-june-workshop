@@ -1,3 +1,5 @@
+### Reimbursements
+
 Team Copper is happy to reimburse transportation expenses
 (both domestic and international), 
 hotels, Airbnb, and meals. 
