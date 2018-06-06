@@ -15,7 +15,7 @@ in Portland._
 - Agenda - _In progress_
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - [Reimbursements](./reimbursements) - details and a reimbursement form
-- [Hotels](https://www.reed.edu/accommodations.html) - a list of hotels in the area (from Reed College)
+- [Hotels](https://www.reed.edu/accommodations.html) - a list of hotels in the area (from Reed College). _We recommend staying at the [Benson hotel](http://www.bensonhotel.com/)._
 - Slack - _Check back soon!_
 
 ## Goals
