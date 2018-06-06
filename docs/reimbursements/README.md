@@ -1,9 +1,3 @@
----
-layout: page
-title: June 2018 DCPPC Workshop Reimbursement
-tagline: June 29-30, Reed College, Portland, OR
----
-
 Team Copper is happy to reimburse transportation expenses
 (both domestic and international), 
 hotels, Airbnb, and meals. 
