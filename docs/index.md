@@ -35,10 +35,19 @@ Please note that _registration is required to attend_.
 
 Click [here](./agenda.md) for the detailed agenda. 
 
+## Accomdations
+
+Lodging in the Sitka Block of Reed campus is available for attendees without children. https://galaxyproject.org/events/gccbosc2018/venue/
+
+Here is a list of [hotels](https://www.reed.edu/accommodations.html) that are all about 20 minutes from Reed College. _We recommend staying at the [Benson hotel](http://www.bensonhotel.com/)._
+
 ## Childcare
 
 We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. 
-We are working on providing a list of all resources on site that will address your needs. Feel free to contact 
+
+**Childcare is available!** However, space is very limited and you are encouraged to book childcare right now at https://galaxyproject.org/events/gccbosc2018/childcare/
+
+Feel free to contact 
 [Team Copper](mailto:commons@dib-lab.groups.io) if you have specific questions or concerns. 
 
 ## Code of Conduct
