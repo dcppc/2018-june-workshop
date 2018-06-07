@@ -11,8 +11,8 @@ in Portland._
 
 ### Pages
 
-- Attendees - _In progress_
-- Agenda - _In progress_
+- [Attendees](./attendees.md) - _In progress_
+- [Agenda](./agenda.md) - _In progress_
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - [Reimbursements](./reimbursements) - details and a reimbursement form
 - [Hotels](https://www.reed.edu/accommodations.html) - a list of hotels in the area (from Reed College). _We recommend staying at the [Benson hotel](http://www.bensonhotel.com/)._
@@ -33,9 +33,7 @@ Please note that _registration is required to attend_.
 
 ## Agenda
 
-_In progress_
-
-The agenda is in progress. Please open an issue to contribute an idea for a breakout session or main event!
+Click [here](./agenda.md) for the detailed agenda. 
 
 ## Childcare
 
