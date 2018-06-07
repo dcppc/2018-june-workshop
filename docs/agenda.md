@@ -13,7 +13,7 @@ in Portland.
 
 ## Concurrent Workshop and Hackathon
 
-Team Copper is planning the monthly meeting and Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon. These event will run concurrently.
+Team Copper is planning the monthly meeting and Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon. These events will run concurrently.
 To maximize the efficacy of both events, all participants will come together at the welcome remarks, end of the day recaps, closing remarks, coffee breaks, and lunch as described in the workshop schedule below. Then, attendees can split off into whatever is most useful for them and for the DCPPC (hackathon only, hackathon in lieu of the breakout sessions, workshop only). 
 
 ## Workshop Day 1: June 29, 2018
