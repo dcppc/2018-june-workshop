@@ -58,7 +58,7 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 17:00 - End
 
 
- ## Workshop Day 2: June 30, 2018
+## Workshop Day 2: June 30, 2018
 
  09: 00: Welcome remarks
  
@@ -101,8 +101,8 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 16:30 - End
  
- 
- ## Hackathon 
+
+## Hackathon 
 
 The hackathon will focus on three themes:
 
