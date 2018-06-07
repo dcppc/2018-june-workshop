@@ -9,31 +9,20 @@ concurrent with the [GCC BOSC 2018 Conference](https://gccbosc2018.sched.com/). 
 GCC BOSC and the DCPPC Workshop will be held at [Reed College](http://www.reed.edu/)
 in Portland._
 
-### Pages
+### Quick Links
 
+- [Registration](https://ti.to/dcppc/june-data-commons-workshop) Please note that _registration is required to attend_
 - [Attendees](./attendees.md) - _In progress_
-- [Agenda](./agenda.md) - _In progress_
+- [Agenda](./agenda.md) - A detailed agenda
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - [Reimbursements](./reimbursements) - details and a reimbursement form
-- [Hotels](https://www.reed.edu/accommodations.html) - a list of hotels in the area (from Reed College). _We recommend staying at the [Benson hotel](http://www.bensonhotel.com/)._
-- Slack - _Check back soon!_
+- [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/?) - Join the #2018-june-workshop channel to connect with other attendees
 
 ## Goals
 
 _In progress_
 
-The goals of the DCPPC June workshop are to build community, to facilitate planned and serendipitous collaboration across teams, 
-and to surface hidden issues around technical and conceptual interoperability.
-
-## Registration
-
-_In progress_
-
-Please note that _registration is required to attend_.
-
-## Agenda
-
-Click [here](./agenda.md) for the detailed agenda. 
+The goals of the DCPPC June workshop are to build community, to facilitate planned and serendipitous collaboration across teams, and to surface hidden issues around technical and conceptual interoperability.
 
 ## Accomdations
 
