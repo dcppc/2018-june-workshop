@@ -4,16 +4,19 @@ title: June 2018 DCPPC Workshop Agenda
 tagline: June 29-30, Reed College, Portland, OR
 ---
 
-_The 2018 June DCPPC workshop will take place on **June 29-30 in Portland, Oregon** 
-concurrent with the [GCC BOSC 2018 Conference](https://gccbosc2018.sched.com/). Both
-GCC BOSC and the DCPPC Workshop will be held at [Reed College](http://www.reed.edu/)
-in Portland._
+The 2018 June DCPPC workshop will take place 
+on **June 29-30 in Portland, Oregon** 
+concurrent with the [GCC BOSC 2018 Conference](https://gccbosc2018.sched.com/). 
+Both GCC BOSC and the DCPPC Workshop will be held at 
+[Reed College](http://www.reed.edu/)
+in Portland.
 
-_For up-to-date information on breakout sessions, please visit the [June Workshop issues page](https://github.com/dcppc/2018-june-workshop/issues)_
+## Concurrent Workshop and Hackathon
 
-_For up-to-date information about hackathon topics, please visit the [Full Stacks issues page](https://github.com/dcppc/full-stacks/issues) 
+Team Copper is planning the monthly meeting and Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon. These event will run concurrently.
+To maximize the efficacy of both events, all participants will come together at the welcome remarks, end of the day recaps, closing remarks, coffee breaks, and lunch as described in the workshop schedule below. Then, attendees can split off into whatever is most useful for them and for the DCPPC (hackathon only, hackathon in lieu of the breakout sessions, workshop only). 
 
-## June 29, 2018
+## Workshop Day 1: June 29, 2018
 
 09:00 - Welcome remarks
  
@@ -40,6 +43,8 @@ _For up-to-date information about hackathon topics, please visit the [Full Stack
 
 13:00 -  Breakout group planning
 
+_For up-to-date information on breakout sessions, please visit the [June Workshop issues page](https://github.com/dcppc/2018-june-workshop/issues)_
+
 13:30 -  Breakout session 1
 
 14:30 - Coffee break (~20 minutes)
@@ -53,7 +58,7 @@ _For up-to-date information about hackathon topics, please visit the [Full Stack
 17:00 - End
 
 
- ## June 30, 2018
+ ## Workshop Day 2: June 30, 2018
 
  09: 00: Welcome remarks
  
@@ -80,6 +85,8 @@ _For up-to-date information about hackathon topics, please visit the [Full Stack
 
 13:00 -  Breakout group planning
 
+_For up-to-date information on breakout sessions, please visit the [June Workshop issues page](https://github.com/dcppc/2018-june-workshop/issues)_
+
 13:30 -  Breakout session 3
 
 14:30 - Coffee break (~20 minutes)
@@ -94,3 +101,14 @@ _For up-to-date information about hackathon topics, please visit the [Full Stack
 
 16:30 - End
  
+ 
+ ## Hackathon 
+
+The hackathon will focus on three themes:
+
+1. **Workflows:** Creating reusable validations tools to assess whether or not different implementations of a workflow producing the expected results.
+2. **DOS+BDBags:** What is the relationship between the DOS API and BDBags as interoperable data access and exchange standards?
+3. **Auth:** Working implementations of REST APIs supporting the OAuth/OIDC federation model.
+ 
+_For up-to-date information about hackathon topics, please visit the [Full Stacks issues page](https://github.com/dcppc/full-stacks/issues)_ 
+
