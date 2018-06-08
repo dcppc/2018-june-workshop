@@ -1,7 +1,7 @@
 ---
 layout: page
-title: July 2018 DCPPC Workshop Reimbursement
-tagline: July 25-26, The Renaissance Computing Institute (RENCI), Chapel Hill, NC 
+title: June 2018 DCPPC Workshop Reimbursement
+tagline: June 29-30, Reed College, Portland, OR
 ---
 
 Team Copper is happy to reimburse transportation expenses, hotels, Airbnbs, 
