@@ -11,12 +11,19 @@ in Portland._
 
 ### Quick Links
 
-- [Registration](https://ti.to/dcppc/june-data-commons-workshop) Please note that _registration is required to attend_
 - [Attendees](./attendees.md) - _In progress_
 - [Agenda](./agenda.md) - A detailed agenda
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - [Reimbursements](./reimbursements) - details and a reimbursement form
 - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-montly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+
+### Registration
+
+We need you to complete _two registration forms_. We appoligize in advance for the duplication of effort, but it is necessary. 
+
+
+1. [CollaborationFest EventBright Form](https://www.eventbrite.com/e/gccbosc-2018-registration-43175078823#tickets): _select the "free CollaborationFest: Core, Fri-Sat June 29-30" option
+1. [Official DCPPC Form](https://ti.to/dcppc/june-data-commons-workshop) 
 
 ### Goals
 
