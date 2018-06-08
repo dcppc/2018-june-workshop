@@ -28,7 +28,7 @@ Lodging in the Sitka Block of Reed campus is available for attendees without chi
 
 Here is a list of [hotels](https://www.reed.edu/accommodations.html) that are all about 20 minutes from Reed College. _We recommend staying at the [Benson hotel](http://www.bensonhotel.com/)._
 
-## Childcare
+### Childcare
 
 We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. 
 
@@ -36,7 +36,7 @@ We know that primary caretakers of dependent children face inequitable hurdles w
 Addittionally, Feel free to contact 
 [Team Copper](mailto:commons@dib-lab.groups.io) if you have specific questions or concerns. 
 
-## Code of Conduct
+### Code of Conduct
 
 All members of the Commons are expected to follow the [code of conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md). 
 We will enforce this code as needed. We expect cooperation from all members to help to ensure a safe environment for everybody.
