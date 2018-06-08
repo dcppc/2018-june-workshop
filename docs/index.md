@@ -18,13 +18,11 @@ in Portland._
 - [Reimbursements](./reimbursements) - details and a reimbursement form
 - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-montly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
 
-## Goals
+### Goals
 
-_In progress_
+The goals of all monnthly workshop are to build community, to facilitate planned and serendipitous collaboration across teams, and to surface hidden issues around technical and conceptual interoperability. Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon that will run concurrently with the workshop. The hackathon themes are **Workflows**, **DOS+BDBags**, and **Auth**. When you [register](https://ti.to/dcppc/june-data-commons-workshop), you will be asked to indicated the extent to which you plan to particpate in the workshop and/or hacathon.
 
-The goals of the DCPPC June workshop are to build community, to facilitate planned and serendipitous collaboration across teams, and to surface hidden issues around technical and conceptual interoperability.
-
-## Accomdations
+### Accomdations
 
 Lodging in the Sitka Block of Reed campus is available for attendees without children. https://galaxyproject.org/events/gccbosc2018/venue/
 
