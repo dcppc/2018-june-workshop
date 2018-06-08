@@ -34,9 +34,8 @@ Here is a list of [hotels](https://www.reed.edu/accommodations.html) that are al
 
 We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. 
 
-**Childcare is available!** However, space is very limited and you are encouraged to book childcare right now at https://galaxyproject.org/events/gccbosc2018/childcare/
-
-Feel free to contact 
+**Childcare is available!** However, space is very limited and you are encouraged to book childcare right now at [https://galaxyproject.org/events/gccbosc2018/childcare/](https://galaxyproject.org/events/gccbosc2018/childcare/).
+Addittionally, Feel free to contact 
 [Team Copper](mailto:commons@dib-lab.groups.io) if you have specific questions or concerns. 
 
 ## Code of Conduct
