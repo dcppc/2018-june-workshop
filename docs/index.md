@@ -19,7 +19,7 @@ in Portland._
 
 ### Registration
 
-We need you to complete _two registration forms_. We appoligize in advance for the duplication of effort, but it is necessary. 
+We need you to complete _two registration forms_. We apologize in advance for the duplication of effort, but it is necessary. 
 
 
 1. [CollaborationFest EventBright Form](https://www.eventbrite.com/e/gccbosc-2018-registration-43175078823#tickets): _select the "free CollaborationFest: Core, Fri-Sat June 29-30" option
