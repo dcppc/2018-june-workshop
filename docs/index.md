@@ -22,9 +22,9 @@ in Portland._
 
 The goals of all monnthly workshop are to build community, to facilitate planned and serendipitous collaboration across teams, and to surface hidden issues around technical and conceptual interoperability. Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon that will run concurrently with the workshop. The hackathon themes are **Workflows**, **DOS+BDBags**, and **Auth**. When you [register](https://ti.to/dcppc/june-data-commons-workshop), you will be asked to indicated the extent to which you plan to particpate in the workshop and/or hacathon.
 
-### Accomdations
+### Accommodations
 
-Lodging in the Sitka Block of Reed campus is available for attendees without children. https://galaxyproject.org/events/gccbosc2018/venue/
+Lodging in the Sitka Block of Reed campus is available for attendees without children. Reserve your spot at [https://galaxyproject.org/events/gccbosc2018/venue/](https://galaxyproject.org/events/gccbosc2018/venue/]).
 
 Here is a list of [hotels](https://www.reed.edu/accommodations.html) that are all about 20 minutes from Reed College. _We recommend staying at the [Benson hotel](http://www.bensonhotel.com/)._
 
