@@ -31,7 +31,7 @@ The goals of all monnthly workshop are to build community, to facilitate planned
 
 ### Accommodations
 
-Lodging in the Sitka Block of Reed campus is available for attendees without children. Reserve your spot at [https://galaxyproject.org/events/gccbosc2018/venue/](https://galaxyproject.org/events/gccbosc2018/venue/]).
+Lodging in the Sitka Block of Reed campus is available for attendees without children. Reserve your spot at [https://galaxyproject.org/events/gccbosc2018/venue/](https://galaxyproject.org/events/gccbosc2018/venue/).
 
 Here is a list of [hotels](https://www.reed.edu/accommodations.html) that are all about 20 minutes from Reed College. _We recommend staying at the [Benson hotel](http://www.bensonhotel.com/)._
 
