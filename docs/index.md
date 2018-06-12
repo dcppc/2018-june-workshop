@@ -22,7 +22,7 @@ in Portland._
 We need you to complete _two registration forms_. We apologize in advance for the duplication of effort, but it is necessary. 
 
 
-1. [CollaborationFest EventBright Form](https://www.eventbrite.com/e/gccbosc-2018-registration-43175078823#tickets): _select the "free CollaborationFest: Core, Fri-Sat June 29-30" option_
+1. [CollaborationFest EventBright Form](https://www.eventbrite.com/e/gccbosc-2018-registration-43175078823#tickets): _Currently this is sold out! We are working to open re-open registration. Stay tuned. Once it opens up, select the "free CollaborationFest: Core, Fri-Sat June 29-30" option_
 1. [Official DCPPC Form](https://ti.to/dcppc/june-data-commons-workshop) 
 
 ### Goals
