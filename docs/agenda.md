@@ -11,16 +11,23 @@ Both GCC BOSC and the DCPPC Workshop will be held at
 [Reed College](http://www.reed.edu/)
 in Portland.
 
-## Concurrent Workshop and Hackathon
+## Concurrent Collaboration Fest, DCPPC Workshops, and DCPPC Hackathon
 
-Team Copper is planning the monthly meeting and Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon. These events will run concurrently.
-To maximize the efficacy of both events, all participants will come together at the welcome remarks, end of the day recaps, closing remarks, coffee breaks, and lunch as described in the workshop schedule below. Then, attendees can split off into whatever is most useful for them and for the DCPPC (hackathon only, hackathon in lieu of the breakout sessions, workshop only). 
+[Collaboration Fest](https://galaxyproject.org/events/gccbosc2018/collaboration/) includes multiple tracks including the Data Commons Pilot Phase Consortium (DCPPC), OpenBio Codefest (OBF), Galaxy development, and Galaxy documentation, analysis, and training (DAT). We will be sharing spaces will all these events and you are encouraged to network!
+
+Additionally, the DCPPC will have two concurrent tracks: main workshop and hackathon. Team Copper is planning the monthly meeting and Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon. These events will run concurrently. To maximize the efficacy of both events, all participants will come together at the welcome remarks, end of the day recaps, closing remarks, coffee breaks, and lunch as described in the workshop schedule below. Then, attendees can split off into whatever is most useful for them and for the DCPPC (hackathon only, hackathon in lieu of the breakout sessions, workshop only). 
+
+Check out this infographic from Sarah Davis for an overview. 
+
+![](./CoFest-image.png)
 
 ## Workshop Day 1: June 29, 2018
 
-09:00 - Welcome remarks
+Link to connect via Zoom: https://zoom.us/j/949707843
+
+09:00 - Welcome remarks - Rayna Harris and S. Edrie 
  
-09:15 - Lightning talks: The awesome things you _have accomplished in the past_.
+09:30 - Lightning talks: The awesome things you _have accomplished in the past_.
 
 - Argon:
 - Calcium: 
@@ -51,18 +58,18 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 14:50 -  Breakout session 2
 
-16:40 - Breakout session 1 and 2 recap 
- 
-16:50 - Closing remarks
+16:00 - Breakout session 1 and 2 recap 
 
-17:00 - End
+16:30 - End
 
 
 ## Workshop Day 2: June 30, 2018
 
- 09: 00: Welcome remarks
+Link to connect via Zoom: https://zoom.us/j/949707843
+
+ 09:00: Welcome remarks:  S. Edrie 
  
- 09: 15: Lightning talks: The awesome things you _hope to accomplish in the future_.
+ 09:20: Lightning talks: The awesome things you _hope to accomplish in the future_.
 
 - Xenon:
 - Sodium: 
@@ -103,6 +110,8 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
  
 
 ## Hackathon 
+
+Link to connect  via Zoom: https://renci.zoom.us/j/313849638
 
 The hackathon will focus on three themes:
 
