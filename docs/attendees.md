@@ -4,7 +4,7 @@ title: June 2018 DCPPC Workshop Attendees
 tagline: June 29-30, Reed College, Portland, OR
 ---
 
-_Attendees as of June 15, 2018_
+_Attendees as of June 19, 2018_
 
     ##              Ticket Full Name          Team    
     ## 1                 Mike D'Arcy         Argon
