@@ -7,47 +7,47 @@ tagline: June 29-30, Reed College, Portland, OR
 _Attendees as of June 15, 2018_
 
     ##              Ticket Full Name          Team    
-    ## 1                 Adam Wright Data Stewards
-    ## 2              Adrienne Stilp Data Stewards
-    ## 3  Alejandra Gonzalez-Beltran       P, O, N
-    ## 4      Brandi Davis-Dusenbery         Xenon
-    ## 5              Brian O'Connor       Calcium
-    ## 6                Charles Reid        Copper
-    ## 7           Charlotte Whicher         Xenon
-    ## 8               Chris Mungall        Helium
-    ## 9              Christina Yung       Calcium
-    ## 10            Claris Castillo        Helium
-    ## 11              Cole Davisson        Oxygen
-    ## 12              Daniel Clarke      Nitrogen
-    ## 13             Daniel S. Katz        Sodium
-    ## 14            David Steinberg       Calcium
-    ## 15                Denis Torre      Nitrogen
-    ## 16    Dr Philippe Rocca-Serra    Phosphorus
-    ## 17                Isma Gilani        Helium
-    ## 18                  Jen Yttri      Hydrogen
-    ## 19              Jessica Lyons        Carbon
-    ## 20              Kira Bradford        Helium
-    ## 21               Kirk Roberts        Oxygen
-    ## 22              Kyle Ferriter        Helium
-    ## 23               Lon Blauvelt       Calcium
-    ## 24                 Luiz Irber        Copper
-    ## 25        Megan Wojciechowicz      Nitrogen
-    ## 26                Mike Cherry Data Stewards
-    ## 27                Mike D'Arcy         Argon
-    ## 28            Nickolaus Saint         Argon
-    ## 29                Nomi Harris        Helium
-    ## 30              Paul Avillach        Carbon
-    ## 31            Pauline Ribeyre       Calcium
-    ## 32               Rayna Harris        Copper
-    ## 33                Rick Wagner         Argon
-    ## 34                   S. Edrie        Copper
-    ## 35                Sarah Davis        Helium
-    ## 36         Sarah Wait Zaranek        Copper
-    ## 37        Sierra Taylor Moxon Data Stewards
-    ## 38              Simon Twigger      Hydrogen
-    ## 39           Suvarna Nadendla    Phosphorus
-    ## 40              Suzanna Lewis Data Stewards
-    ## 41                 Zac Flamig       Calcium
+    ## 1                 Mike D'Arcy         Argon
+    ## 2             Nickolaus Saint         Argon
+    ## 3                 Rick Wagner         Argon
+    ## 4              Brian O'Connor       Calcium
+    ## 5              Christina Yung       Calcium
+    ## 6             David Steinberg       Calcium
+    ## 7                Lon Blauvelt       Calcium
+    ## 8             Pauline Ribeyre       Calcium
+    ## 9                  Zac Flamig       Calcium
+    ## 10              Jessica Lyons        Carbon
+    ## 11              Paul Avillach        Carbon
+    ## 12               Charles Reid        Copper
+    ## 13                 Luiz Irber        Copper
+    ## 14               Rayna Harris        Copper
+    ## 15                   S. Edrie        Copper
+    ## 16         Sarah Wait Zaranek        Copper
+    ## 17                Adam Wright Data Stewards
+    ## 18             Adrienne Stilp Data Stewards
+    ## 19                Mike Cherry Data Stewards
+    ## 20        Sierra Taylor Moxon Data Stewards
+    ## 21              Suzanna Lewis Data Stewards
+    ## 22              Chris Mungall        Helium
+    ## 23            Claris Castillo        Helium
+    ## 24                Isma Gilani        Helium
+    ## 25              Kira Bradford        Helium
+    ## 26              Kyle Ferriter        Helium
+    ## 27                Nomi Harris        Helium
+    ## 28                Sarah Davis        Helium
+    ## 29                  Jen Yttri      Hydrogen
+    ## 30              Simon Twigger      Hydrogen
+    ## 31 Alejandra Gonzalez-Beltran       N, O, P
+    ## 32              Daniel Clarke      Nitrogen
+    ## 33                Denis Torre      Nitrogen
+    ## 34        Megan Wojciechowicz      Nitrogen
+    ## 35              Cole Davisson        Oxygen
+    ## 36               Kirk Roberts        Oxygen
+    ## 37    Dr Philippe Rocca-Serra    Phosphorus
+    ## 38           Suvarna Nadendla    Phosphorus
+    ## 39             Daniel S. Katz        Sodium
+    ## 40     Brandi Davis-Dusenbery         Xenon
+    ## 41          Charlotte Whicher         Xenon
     
 
 _Overview of particpants per team_
