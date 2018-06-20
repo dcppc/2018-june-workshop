@@ -88,6 +88,8 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 Link to connect  via Zoom: https://renci.zoom.us/j/313849638
 
+_Hackers should plan on attending the Workshop Welcome each morning at 9am. We can play it by ear how many of the Lightning Talks to attend. At the end of each day, hackers should be prepared to give a very brief update on what was accomplished in the hackathon._
+
 The hackathon will focus on three themes:
 
 1. **Workflows:** Creating reusable validations tools to assess whether or not different implementations of a workflow producing the expected results.
