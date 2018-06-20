@@ -11,7 +11,7 @@ Both GCC BOSC and the DCPPC Workshop will be held at
 [Reed College](http://www.reed.edu/)
 in Portland.
 
-## Concurrent Collaboration Fest, DCPPC Workshops, and DCPPC Hackathon
+### Concurrent Collaboration Fest, DCPPC Workshops, and DCPPC Hackathon
 
 [Collaboration Fest](https://galaxyproject.org/events/gccbosc2018/collaboration/) includes multiple tracks including the Data Commons Pilot Phase Consortium (DCPPC), OpenBio Codefest (OBF), Galaxy development, and Galaxy documentation, analysis, and training (DAT). We will be sharing spaces will all these events and you are encouraged to network!
 
@@ -21,28 +21,15 @@ Check out this infographic from Sarah Davis for an overview.
 
 ![](./CoFest-image.png)
 
-## Workshop Day 1: June 29, 2018
+### Workshop Day 1: June 29, 2018
 
-Link to connect via Zoom: https://zoom.us/j/949707843
+**Link to connect via Zoom: https://zoom.us/j/949707843**
 
 09:00 - Welcome remarks - Rayna Harris and S. Edrie 
  
-09:30 - Lightning talks: The awesome things you _have accomplished in the past_.
+09:30 - Lightning talks: The awesome things your team has accomplished already.
 
-- Argon:
-- Calcium: 
-- Carbon: 
-- Copper: 
-- Data Stewards (AGR):
-- Data Stewards (GTEx): 
-- Data Stewards (TOPMed):
-- Helium: 
-- Hydrogen (NIH): 
-- Nitrogen: 
-- Oxygen: 
-- Phosphorus: 
-- Sodium: 
-- Xenon: 
+_To view the speaker order and to indicated who will represent your team, please visit [this issue](https://github.com/dcppc/2018-june-workshop/issues/4). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
   
 10:30 - Coffee break (~20 minutes)
  
@@ -63,28 +50,16 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 16:30 - End
 
 
-## Workshop Day 2: June 30, 2018
+### Workshop Day 2: June 30, 2018
 
-Link to connect via Zoom: https://zoom.us/j/949707843
+**Link to connect via Zoom: https://zoom.us/j/949707843**
 
  09:00: Welcome remarks:  S. Edrie 
  
- 09:20: Lightning talks: The awesome things you _hope to accomplish in the future_.
+ 09:20: Lightning talks: The awesome things your team will accomplish in the future.
 
-- Xenon:
-- Sodium: 
-- Phosphorus: 
-- Oxygen: 
-- Nitrogen: 
-- Hydrogen (NIH): 
-- Helium: 
-- Data Stewards (TOPMed):
-- Data Stewards (GTEx): 
-- Data Stewards (AGR):
-- Copper:
-- Carbon:
-- Calcium: 
-- Argon:
+_To view the speaker order and to indicated who will represent your team, please visit [this issue](https://github.com/dcppc/2018-june-workshop/issues/5). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
+
 
 10:30 - Coffee break (~20 minutes)
  
@@ -109,7 +84,7 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 16:30 - End
  
 
-## Hackathon 
+### Hackathon 
 
 Link to connect  via Zoom: https://renci.zoom.us/j/313849638
 
