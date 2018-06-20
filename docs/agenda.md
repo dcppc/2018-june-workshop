@@ -4,32 +4,23 @@ title: June 2018 DCPPC Workshop Agenda
 tagline: June 29-30, Reed College, Portland, OR
 ---
 
-The 2018 June DCPPC workshop will take place 
-on **June 29-30 in Portland, Oregon** 
-concurrent with the [GCC BOSC 2018 Conference](https://gccbosc2018.sched.com/). 
-Both GCC BOSC and the DCPPC Workshop will be held at 
-[Reed College](http://www.reed.edu/)
-in Portland.
-
 ### Concurrent Collaboration Fest, DCPPC Workshops, and DCPPC Hackathon
 
 [Collaboration Fest](https://galaxyproject.org/events/gccbosc2018/collaboration/) includes multiple tracks including the Data Commons Pilot Phase Consortium (DCPPC), OpenBio Codefest (OBF), Galaxy development, and Galaxy documentation, analysis, and training (DAT). We will be sharing spaces will all these events and you are encouraged to network!
 
-Additionally, the DCPPC will have two concurrent tracks: main workshop and hackathon. Team Copper is planning the monthly meeting and Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon. These events will run concurrently. To maximize the efficacy of both events, all participants will come together at the welcome remarks, end of the day recaps, closing remarks, coffee breaks, and lunch as described in the workshop schedule below. Then, attendees can split off into whatever is most useful for them and for the DCPPC (hackathon only, hackathon in lieu of the breakout sessions, workshop only). 
-
-Check out this infographic from Sarah Davis for an overview. 
+The DCPPC will have two concurrent tracks: main workshop and full stack hackathon. Both groups will meet in the auditorium (room TBD) for the welcome and end of day recaps. Check out this infographic from Sarah Davis for an overview. A detailed schedule is below. 
 
 ![](./CoFest-image.png)
 
 ### Workshop Day 1: June 29, 2018
 
-**Link to connect via Zoom: https://zoom.us/j/949707843**
+**Link to connect via Zoom: [https://zoom.us/j/949707843](https://zoom.us/j/949707843)**
 
-09:00 - Welcome remarks - Rayna Harris and S. Edrie 
+09:00 - Welcome remarks - Auditorium (room TBD)
  
 09:30 - Lightning talks: The awesome things your team has accomplished already.
 
-_To view the speaker order and to indicated who will represent your team, please visit [this issue](https://github.com/dcppc/2018-june-workshop/issues/4). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
+_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-june-workshop/issues/4). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
   
 10:30 - Coffee break (~20 minutes)
  
@@ -52,13 +43,13 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 ### Workshop Day 2: June 30, 2018
 
-**Link to connect via Zoom: https://zoom.us/j/949707843**
+**Link to connect via Zoom: [https://zoom.us/j/949707843](https://zoom.us/j/949707843)**
 
- 09:00: Welcome remarks:  S. Edrie 
+ 09:00: Welcome remarks:  Auditorium (room TBD)
  
  09:20: Lightning talks: The awesome things your team will accomplish in the future.
 
-_To view the speaker order and to indicated who will represent your team, please visit [this issue](https://github.com/dcppc/2018-june-workshop/issues/5). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
+_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-june-workshop/issues/5). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 
 
 10:30 - Coffee break (~20 minutes)
@@ -86,9 +77,9 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 ### Hackathon 
 
-Link to connect  via Zoom: https://renci.zoom.us/j/313849638
+**Link to connect  via Zoom: [https://renci.zoom.us/j/313849638](https://renci.zoom.us/j/313849638)**
 
-_Hackers should plan on attending the Workshop Welcome each morning at 9am. We can play it by ear how many of the Lightning Talks to attend. At the end of each day, hackers should be prepared to give a very brief update on what was accomplished in the hackathon._
+_Hackers should plan on attending the Workshop Welcome each morning at 9 am. We can play it by ear how many of the Lightning Talks to attend. At the end of each day, hackers should be prepared to give a very brief update on what was accomplished in the hackathon._
 
 The hackathon will focus on three themes:
 
