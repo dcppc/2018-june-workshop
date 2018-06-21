@@ -43,7 +43,7 @@ _Attendees as of June 19, 2018_
     ## 34        Megan Wojciechowicz      Nitrogen
     ## 35              Cole Davisson        Oxygen
     ## 36               Kirk Roberts        Oxygen
-    ## 37    Dr Philippe Rocca-Serra    Phosphorus
+    ## 37       Philippe Rocca-Serra       N, O, P
     ## 38           Suvarna Nadendla    Phosphorus
     ## 39             Daniel S. Katz        Sodium
     ## 40     Brandi Davis-Dusenbery         Xenon
