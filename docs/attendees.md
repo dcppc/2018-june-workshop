@@ -47,7 +47,7 @@ _Attendees as of June 21, 2018_
     ## 38              Cole Davisson         Oxygen
     ## 39               Kirk Roberts         Oxygen
     ## 40 Alejandra Gonzalez-Beltran        N, O, P 
-    ## 41    Dr Philippe Rocca-Serra        N, O, P 
+    ## 41       Philippe Rocca-Serra        N, O, P 
     ## 42           Suvarna Nadendla     Phosphorus
     ## 43             Daniel S. Katz         Sodium
     ## 44                  Tim Clark         Sodium
