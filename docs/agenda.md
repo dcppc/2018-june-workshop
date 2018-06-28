@@ -12,11 +12,19 @@ The DCPPC will have two concurrent tracks: main workshop and full stack hackatho
 
 ![](./CoFest-image.png)
 
+### Rooms
+
+The event will take place in the Performing Arts Building at Reed College.
+
+- All talks will take place in **PAB 320**.
+- The full stack hackathon will take place in **PAB 131** 
+- Breakout groups will be disperses in the atrium.
+
 ### Workshop Day 1: June 29, 2018
 
 **Link to connect via Zoom: [https://zoom.us/j/949707843](https://zoom.us/j/949707843)**
 
-09:00 - Welcome remarks - Auditorium (room TBD)
+09:00 - Welcome remarks
  
 09:30 - Lightning talks: The awesome things your team has accomplished already.
 
@@ -24,17 +32,17 @@ _To view the speaker order and to indicate who will represent your team, please 
   
 10:30 - Coffee break (~20 minutes)
  
-12:00 -  Lunch (1 hour)         
+12:00 - Lunch (1 hour)         
 
-13:00 -  Breakout group planning
+13:00 - Breakout group planning
 
 _For up-to-date information on breakout sessions, please visit the [June Workshop issues page](https://github.com/dcppc/2018-june-workshop/issues)_
 
-13:30 -  Breakout session 1
+13:30 - Breakout session 1
 
 14:30 - Coffee break (~20 minutes)
 
-14:50 -  Breakout session 2
+14:50 - Breakout session 2
 
 16:00 - Breakout session 1 and 2 recap 
 
@@ -45,26 +53,25 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 **Link to connect via Zoom: [https://zoom.us/j/949707843](https://zoom.us/j/949707843)**
 
- 09:00: Welcome remarks:  Auditorium (room TBD)
+ 09:00: Welcome remarks
  
  09:20: Lightning talks: The awesome things your team will accomplish in the future.
 
 _To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-june-workshop/issues/5). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 
-
 10:30 - Coffee break (~20 minutes)
  
-12:00 -  Lunch (1 hour)         
+12:00 - Lunch (1 hour)         
 
-13:00 -  Breakout group planning
+13:00 - Breakout group planning
 
 _For up-to-date information on breakout sessions, please visit the [June Workshop issues page](https://github.com/dcppc/2018-june-workshop/issues)_
 
-13:30 -  Breakout session 3
+13:30 - Breakout session 3
 
 14:30 - Coffee break (~20 minutes)
 
-14:50 -  Breakout session 4
+14:50 - Breakout session 4
 
 16:00 - Breakout session 1 and 2 recap 
 
