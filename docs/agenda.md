@@ -24,7 +24,7 @@ The event will take place in the Performing Arts Building at Reed College.
 
 **Link to connect via Zoom: [https://zoom.us/j/949707843](https://zoom.us/j/949707843)**
 
-09:00 - Welcome remarks
+09:00 - Welcome remarks: Rayna Harris (Team Copper) and Simon Twigger (NIH)
  
 09:30 - Lightning talks: The awesome things your team has accomplished already.
 
@@ -53,7 +53,7 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 **Link to connect via Zoom: [https://zoom.us/j/949707843](https://zoom.us/j/949707843)**
 
- 09:00: Welcome remarks
+ 09:00: Welcome remarks: S. Edrie (Team Copper)
  
  09:20: Lightning talks: The awesome things your team will accomplish in the future.
 
