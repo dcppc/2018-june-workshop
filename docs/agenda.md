@@ -73,7 +73,7 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 14:50 - Breakout session 4
 
-16:00 - Breakout session 1 and 2 recap 
+16:00 - Breakout session 3 and 4 recap 
 
 16:10 - Post-workshop survey
  
