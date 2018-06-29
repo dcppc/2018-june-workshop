@@ -90,7 +90,7 @@ _Hackers should plan on attending the Workshop Welcome each morning at 9 am. We 
 
 The hackathon will focus on three themes:
 
-1. **Workflows:** Creating reusable validations tools to assess whether or not different implementations of a workflow producing the expected results.
+1. **Workflows:** Creating reusable validations tools to assess whether or not different implementations of a workflow are producing the expected results.
 2. **DOS+BDBags:** What is the relationship between the DOS API and BDBags as interoperable data access and exchange standards?
 3. **Auth:** Working implementations of REST APIs supporting the OAuth/OIDC federation model.
  
