@@ -18,6 +18,7 @@ in Portland._
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - [Reimbursements](./reimbursements) - details and a reimbursement form
 - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+- [Google Drive folder for the June workshop](https://bit.ly/JuneGoogleDrive)
 
 ### Registration
 
