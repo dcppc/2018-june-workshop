@@ -46,6 +46,8 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 16:00 - Breakout session 1 and 2 recap 
 
+16:20 - Closing remarks
+
 16:30 - End
 
 
@@ -75,7 +77,7 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 16:00 - Breakout session 3 and 4 recap 
 
-16:10 - Post-workshop survey
+16:10 - **Link to the Post-Workshop Survey: [https://tinyurl.com/JuneWorkshopSurvey](https://tinyurl.com/JuneWorkshopSurvey)**
  
 16:20 - Closing remarks
 
