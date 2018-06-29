@@ -14,10 +14,10 @@ in Portland._
 - [Attendees](./attendees.md) - _In progress_
 - [Agenda](./agenda.md) - A detailed agenda
 - [Parking](https://www.reed.edu/cep/venues/parker-house/parking-map.html) - Park in the "West Parking Lot"
-- [Wi-Fi](bit.ly/reedwireless) - Connect to ReedXenia and register as guest
+- [Wi-Fi](https://bit.ly/reedwireless) - Connect to ReedXenia and register as guest
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - [Reimbursements](./reimbursements) - details and a reimbursement form
-- [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-montly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+- [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
 
 ### Registration
 
@@ -29,7 +29,7 @@ We need you to complete _two registration forms_. We apologize in advance for th
 
 ### Goals
 
-The goals of all monnthly workshop are to build community, to facilitate planned and serendipitous collaboration across teams, and to surface hidden issues around technical and conceptual interoperability. Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon that will run concurrently with the workshop. The hackathon themes are **Workflows**, **DOS+BDBags**, and **Auth**. When you [register](https://ti.to/dcppc/june-data-commons-workshop), you will be asked to indicated the extent to which you plan to particpate in the workshop and/or hacathon.
+The goals of all monnthly workshop are to build community, to facilitate planned and serendipitous collaboration across teams, and to surface hidden issues around technical and conceptual interoperability. Teams Helium, Argon, Calcium, and Xenon are planning a 2-day hackathon that will run concurrently with the workshop. The hackathon themes are **Workflows**, **DOS+BDBags**, and **Auth**. When you [register for the workshop](https://ti.to/dcppc/june-data-commons-workshop), you will be asked to indicate the extent to which you plan to particpate in the workshop and/or hackathon.
 
 ### Wi-Fi Access
 
@@ -37,10 +37,11 @@ The goals of all monnthly workshop are to build community, to facilitate planned
 2. Members outside the Reed community should click "Register as Guest" and enter a name and e-mail address or phone number. Log in using your e-mail address as the username, and the numerical password e-mailed/texted to you.
 3. After registering, you may be warned by your browser that you're being redirected to Reed's homepage.
 
-Having problems? Talk to the registration desk or [see here](bit.ly/reedwireless).
+Having problems? Talk to the registration desk or [see here](https://bit.ly/reedwireless).
 
 ### Parking
-The "West Parking Lot" is just outside the Performing Arts Building. You can park there. Visit the [Reed parking map](https://www.reed.edu/cep/venues/parker-house/parking-map.html) for more information. _Note, on that Map, the fine arts building is building No. 21.
+
+The "West Parking Lot" is just outside the Performing Arts Building. You can park there for free. Visit the [Reed parking map](https://www.reed.edu/cep/venues/parker-house/parking-map.html) for more information. _Note, on that Map, the fine arts building is building No. 21._
 
 ### Accommodations
 
@@ -53,11 +54,9 @@ Here is a list of [hotels](https://www.reed.edu/accommodations.html) that are al
 We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. 
 
 **Childcare is available!** However, space is very limited and you are encouraged to book childcare right now at [https://galaxyproject.org/events/gccbosc2018/childcare/](https://galaxyproject.org/events/gccbosc2018/childcare/).
-Addittionally, Feel free to contact 
-[Team Copper](mailto:commons@dib-lab.groups.io) if you have specific questions or concerns. 
+Addittionally, Feel free to contact Team Copper at <commons@dib-lab.groups.io> if you have specific questions or concerns. 
 
 ### Code of Conduct
 
 All members of the Commons are expected to follow the [code of conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md). 
 We will enforce this code as needed. We expect cooperation from all members to help to ensure a safe environment for everybody.
-
