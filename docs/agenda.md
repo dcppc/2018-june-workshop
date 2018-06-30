@@ -18,7 +18,7 @@ The event will take place in the Performing Arts Building at Reed College.
 
 - All talks will take place in **PAB 320**.
 - The full stack hackathon will take place in **PAB 131** 
-- Breakout groups will be disperses in the atrium.
+- Breakout groups will be disperse in the atrium.
 
 ### Workshop Day 1: June 29, 2018
 
@@ -58,10 +58,12 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
  09:00: Welcome remarks: S. Edrie (Team Copper)
  
  09:20: Lightning talks: The awesome things your team will accomplish in the future.
+ 
+ **Lightning Talk Slides: [here](https://drive.google.com/drive/folders/1EDhzR_2SklaPUt0h__62N0NPRPJelN16?usp=sharing)**
 
 _To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-june-workshop/issues/5). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 
-10:30 - Coffee break (~20 minutes)
+10:30 - Coffee break and group photo in the atrium (~20 minutes)
  
 12:00 - Lunch (1 hour)         
 
@@ -75,7 +77,9 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 14:50 - Breakout session 4
 
-16:00 - Breakout session 3 and 4 recap 
+16:00 - Breakout session 3 and 4 recap
+
+ **Notes go here: [Breakout Session Notes](https://drive.google.com/drive/folders/1sRC7__BSwfMKu4OyLHRv8zLlDaQkCWDF?usp=sharing)**
 
 16:10 - **Link to the Post-Workshop Survey: [https://tinyurl.com/JuneWorkshopSurvey](https://tinyurl.com/JuneWorkshopSurvey)**
  
