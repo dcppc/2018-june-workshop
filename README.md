@@ -8,3 +8,4 @@ This website is automatically generated from Markdown files in the `docs/` folde
 To add or modify content on the workshop website, edit the corresponding file in the `docs/` folder.
 
 The site title, Github URL, and other information is set in `docs/_config.yml`, a YAML configuration file.
+
